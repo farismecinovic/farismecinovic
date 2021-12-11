@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Faris Mecinovic
+## Hi there 👋
 
 - 👋 Hi, I’m Faris @farismecinovic and I'm frontend software engineer
 - 👀 I’m experienced in Javascript, Typescript, React, Next, Gatsby, React Native, Expo, Vue
