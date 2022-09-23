@@ -1,27 +1,19 @@
-## Hi there 
+<!-- ## Hi there 
 
 - 👋 Hi, I’m Faris @farismecinovic and I'm frontend software engineer
 - 👀 I’m experienced in Javascript, Typescript, React, Next, Gatsby, React Native, Expo, Vue
 - 🌱 I’m currently learning ... does the learing ever end? But currently Go and hopefully Python
-- 📫 How to reach me faris.mecinovic.np@gmail.com
+- 📫 How to reach me faris.mecinovic.np@gmail.com -->
 
 # 👋 Hi, I'm Faris Mecinovic
 
 **`Digital Craftsman (Developer/Creator)`**
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
 
 ---
 
 ### 🧰 Languages and Tools
+
+
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -39,9 +31,10 @@
 
 ### 📊 Stats
 
+
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=farismecinovicrrestknight&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=farismecinovic&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=FarisMecinovic&theme=gruvbox&border_radius=4.5) -->
 
 #
 
