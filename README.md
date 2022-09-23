@@ -8,7 +8,7 @@
 # 👋 Hi, I'm Faris Mecinovic
 
 
----
+<!-- --- -->
 
 ### 🧰 Languages and Tools
 
