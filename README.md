@@ -7,7 +7,6 @@
 
 # 👋 Hi, I'm Faris Mecinovic
 
-**`Digital Craftsman (Developer/Creator)`**
 
 ---
 
