@@ -1,9 +1,8 @@
-# 👋 I'm Faris, Software Engineer 🤖
+# 👋 I'm Faris Mecinovic
 
 
-<!-- --- -->
 
-### 🧰 Languages and Tools
+### Languages & Tools
 
 
 
@@ -18,19 +17,6 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
-#
-
-Feel free to reach out to me on [<img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/linkedin.svg" width=16>](https://www.linkedin.com/in/justinlowen/)
-or through [<img src="https://raw.githubusercontent.com/JLowe-N/JLowe-N/master/icons/gmail.svg" width=16>](mailto:Justin.G.Lowen@Gmail.com)
-
-
-### 📊 Stats
-
-
-<!-- ![Faris's GitHub stats](https://github-readme-stats.vercel.app/api?username=farismecinovic&show_icons=true&theme=gruvbox) -->
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=FarisMecinovic&theme=gruvbox&border_radius=4.5)
 
 #
 
