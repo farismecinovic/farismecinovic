@@ -1,5 +1,5 @@
 # 👋 I'm Faris Mecinovic
-🔭 I’m a front-end web & mobile developer experienced in React and React Native<br>🌱 I’m currently learning Python
+🔭 I’m Fullstack developer experienced in React and React Native & Node js <br>🌱 I’m currently learning Python
 
 
 ## 🌐 Socials:
