@@ -10,7 +10,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,svelte,nodejs,js,ts,aws,gcp,solidity)](https://skillicons.dev)
+[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=next,react,nodejs,js,ts,aws,bash,nestjs,docker,mongodb,mysql,postgres,vue)](https://skillicons.dev)
 
 </div>
 
