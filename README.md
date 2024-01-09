@@ -1,4 +1,3 @@
-<div>
 # 👋 I'm Faris Mecinovic
 🔭 I’m Fullstack developer experienced in React and React Native & Node js <br>🌱 I’m currently learning Python
 
@@ -9,7 +8,6 @@
 <div align="center">
 # 💻 My Tech Stack:
 
-[![Next.js, React, Node.js, JavaScript, TypeScript, AWS, NestJS](https://skillicons.dev/icons?i=next,react,nodejs,js,ts,aws,nestjs)](https://skillicons.dev)
+[![Next.js, React, Node.js, JavaScript, TypeScript, AWS, NestJS](https://skillicons.dev/icons?i=next,react,nodejs,js,ts,aws,nestjs,bash)](https://skillicons.dev)
 </div>
 
-</div>
