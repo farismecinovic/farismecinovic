@@ -8,7 +8,7 @@
 
 # 💻 My Tech Stack:
 
-[![](https://skillicons.dev/icons?i=next,react,nodejs,js,ts,express,nestjs,mongodb,mysql,postgres,py,django,fastapi,aws,bash,docker,supabase,firebase,datagrip)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=vite,next,react,nodejs,js,ts,express,nestjs,mongodb,sqlite,mysql,postgres,py,django,fastapi,aws,bash,docker,supabase,firebase,prisma,sentry)](https://skillicons.dev)
 
 </div>
 
